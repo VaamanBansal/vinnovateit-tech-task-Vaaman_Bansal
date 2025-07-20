@@ -4,7 +4,7 @@ This is a Streamlit-based web app that predicts a student's final grade based on
 
 ## Features
 
-- Predicts grades (A–F) using a pre-trained ML model (XGBoost or similar)
+- Predicts grades (A–F) using a pre-trained ML model 
 - Takes into account:
   - Attendance
   - Midterm score
