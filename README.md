@@ -26,7 +26,7 @@ This is a Streamlit-based web app that predicts a student's final grade based on
 ##  Installation
 
 ```bash
-git clone https://github.com/your-username/student-grade-predictor.git
+git clone https://github.com/your-username/student-grade-predictor.git](https://github.com/VaamanBansal/vinnovateit-tech-task-Vaaman_Bansal
 cd student-grade-predictor
 pip install -r requirements.txt
 
